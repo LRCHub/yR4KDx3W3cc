@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "fake star",
+  "base_artist": "平井　堅",
+  "createdAt": "2026-02-27T07:52:38.826952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fake Star",
+      "artist": "Massive Ego",
+      "has_synced": true,
+      "path": "select/01_Fake_Star_Massive_Ego.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FAKE STAR (feat. uratanuki & Gom)",
+      "artist": "Honeyworks",
+      "has_synced": true,
+      "path": "select/02_FAKE_STAR_(feat._uratanuki_&_Gom)_Honeyworks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FAKE STAR (feat. YUI / CV : Soma Saito, RIO / CV : Yuma Uchida & HoneyWorks)",
+      "artist": "Full Throttle4",
+      "has_synced": true,
+      "path": "select/03_FAKE_STAR_(feat._YUI___CV___Soma_Saito,_RIO___CV___Yuma_Uchida_&_HoneyWorks)_Full_Throttle4.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Star",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/04_Fake_Star_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beams (Fake Star Version)",
+      "artist": "Kuroyume",
+      "has_synced": true,
+      "path": "select/05_Beams_(Fake_Star_Version)_Kuroyume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FAKE STAR",
+      "artist": "HoneyWorks feat.うらたぬき & Gom",
+      "has_synced": true,
+      "path": "select/06_FAKE_STAR_HoneyWorks_feat.うらたぬき_&_Gom.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "F**k The Fake Star",
+      "artist": "Hotei",
+      "has_synced": false,
+      "path": "select/07_F_k_The_Fake_Star_Hotei.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "fake star",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/08_fake_star_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FAKE STAR (feat. うらたぬき & Gom)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_FAKE_STAR_(feat._うらたぬき_&_Gom)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "fake star",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/10_fake_star_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "fake star",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/11_fake_star_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fuck The Fake Star",
+      "artist": "Tomoyasu Hotei",
+      "has_synced": false,
+      "path": "select/12_Fuck_The_Fake_Star_Tomoyasu_Hotei.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BEAMS -FAKE STAR VERSION-",
+      "artist": "Kuroyume",
+      "has_synced": true,
+      "path": "select/13_BEAMS_-FAKE_STAR_VERSION-_Kuroyume.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/14_Fake_Plastic_Trees_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fake ID",
+      "artist": "Big & Rich feat. Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/15_Fake_ID_Big_&_Rich_feat._Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fake ID (feat. Gretchen Wilson)",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/16_Fake_ID_(feat._Gretchen_Wilson)_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Danielle Bradbery)",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/17_Fake_Love_(feat._Danielle_Bradbery)_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/18_Fake_Love_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Fake A Smile",
+      "artist": "Alan Walker feat. salem ilese",
+      "has_synced": true,
+      "path": "select/19_Fake_A_Smile_Alan_Walker_feat._salem_ilese.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Fake A Smile",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/20_Fake_A_Smile_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/21_Fake_Plastic_Trees_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/22_Fake_Love_Drake.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/23_Fake_Plastic_Trees_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (acoustic)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/24_Fake_Plastic_Trees_(acoustic)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (Eves Club)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/25_Fake_Plastic_Trees_(Eves_Club)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (KROQ)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/26_Fake_Plastic_Trees_(KROQ)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (MTV Live)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/27_Fake_Plastic_Trees_(MTV_Live)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Morning Mr Magpie (Nathan Fake Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/28_Morning_Mr_Magpie_(Nathan_Fake_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Stuck On Repeat (Fake Blood Remix)",
+      "artist": "Little Boots",
+      "has_synced": false,
+      "path": "select/29_Stuck_On_Repeat_(Fake_Blood_Remix)_Little_Boots.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "S-X",
+      "has_synced": false,
+      "path": "select/30_Fake_Love_S-X.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Last Night's Fake Blood",
+      "artist": "Miniature Tigers",
+      "has_synced": true,
+      "path": "select/31_Last_Night's_Fake_Blood_Miniature_Tigers.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Fake Empire",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/32_Fake_Empire_The_National.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "The Fake Headlines",
+      "artist": "The New Pornographers",
+      "has_synced": false,
+      "path": "select/33_The_Fake_Headlines_The_New_Pornographers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fake star",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_fake_star_平井_堅.txt"
+    }
+  ]
+}
